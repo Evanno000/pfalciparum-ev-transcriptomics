@@ -1,0 +1,28 @@
+PROJECT 6: MALARIA TRANSCRIPTOMICS
+
+Dataset: GSE241277
+
+Organism: Plasmodium falciparum
+
+Research institution:
+KEMRI-Wellcome Trust Research Programme
+
+Location: Kilifi, Kenya
+
+Technology: RNA sequencing
+
+Sequencing platform: Illumina HiSeq 4000
+
+Quantification software: Kallisto
+
+Statistical environment: R/Bioconductor
+
+Research focus:
+Comparison of extracellular vesicle RNA
+and intracellular parasite RNA.
+
+Original publication:
+https://doi.org/10.1038/s41467-023-42103-x
+
+Data source:
+NCBI Gene Expression Omnibus
